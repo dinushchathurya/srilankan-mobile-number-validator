@@ -1,11 +1,16 @@
 {
     "name": "dinushchathurya/srilankan-mobile-number-validator",
+    "description": "This package validate all Sri Lanakan phone number including mobile and landline numbers.",
+    "keywords": ["SriLankan Phone Number Validation", "SriLankan Mobile Number Validator", "Srilankan Mobile Validator", "Mobile Number Vaidator", "Mobile Number Validator SriLanka"],
+    "type": "package",
+    "license": "BSD-3-Clause",
     "authors": [
         {
             "name": "dinushchathurya",
             "email": "dinushchathurya21@gmail.com"
         }
     ],
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Dinushchathurya\\SrilankanMobilecodeValidator\\": "src/"
