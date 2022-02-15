@@ -1,0 +1,21 @@
+{
+    "name": "dinushchathurya/srilankan-mobile-number-validator",
+    "authors": [
+        {
+            "name": "dinushchathurya",
+            "email": "dinushchathurya21@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Dinushchathurya\\SrilankanMobilecodeValidator\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Dinushchathurya\\SrilankanMobilecodeValidator\\MobilecodeValidatorServiceProvider"
+            ]
+        }
+    }
+}
