@@ -21,6 +21,7 @@
     <li><a href="#translations">Translations</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#author">Author</a></li>
+    <li><a href="#credits">Credit</a></li>
     <li><a href="#license">License</a></li>
 </ol>
 
@@ -62,6 +63,10 @@ Don't forget to give the project a star! Thanks again!
 ## Author 
 
 Author [Dinush Chathurya](https://dinushchathurya.github.io/)
+
+## Author 
+
+Regex Credit [Ayesh Karunaratne](https://github.com/Ayesh)
 
 ## License
 
