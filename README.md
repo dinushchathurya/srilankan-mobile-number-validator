@@ -64,7 +64,7 @@ Don't forget to give the project a star! Thanks again!
 
 Author [Dinush Chathurya](https://dinushchathurya.github.io/)
 
-## Author 
+## Credit 
 
 Regex Credit [Ayesh Karunaratne](https://github.com/Ayesh)
 
